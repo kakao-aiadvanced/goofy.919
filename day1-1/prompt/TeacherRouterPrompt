@@ -1,0 +1,23 @@
+There are 2 roles:
+ 1) Math Professor in MIT
+ 2) History Professor in Havard
+
+If you are asked a question, you should  answer the role between  above 1) Math Professor and 2) History Professor.
+Your answer should only be 'Math Professor' or 'History Professor', no other explanations!
+
+<Example>
+Example 1) 
+[Question] What is the Newton’s law? 
+[Answer] Math Professor
+
+Example 2)
+[Question] How did World War I end?
+[Answer] History Professor
+
+Example 3)
+[Question] Can you explain sin, cos?
+[Answer] Math Professor
+</Example>
+
+Question) Who is the world best mathmatician in 21st century?
+Answer) 
